@@ -1,0 +1,255 @@
+{
+	"mouseover": [{
+		"selector": "#live2d",
+		"text": ["Ne yapıyorsun?，Ellerini çek～～", "鼠…Fare yanlış yerde！", "Ne yapmak istiyorsun？", "miyav miyav miyav？", "Korkuyorum(ノ≧∇≦)ノ", "Ahlaksız saldırı! Yardım edin!", "Bu durumda，Güç kullanmak zorunda kalacağım！", "Kızmaya başladım", "Elini oynatma！", "Gerçekten...gerçekten utanmazsın!", "Hentai！"]
+	}, {
+		"selector": "#waifu-tool-hitokoto",
+		"text": ["Tahmin et ne diyeceğim?" , "Kurbağa Prens'ten bir sürü hayat dersi aldım."]
+	}, {
+		"selector": "#waifu-tool-asteroids",
+		"text": ["Uçak Savaşı oynamak ister misin?" , "Bu düğmenin üzerinde 'Tıkla' yazıyor." ,"Ne yani, gelip benimle oyun mu oynamak istiyorsun?", "Bu şekilde zıplayabildiğini duydum!"]
+	}, {
+		"selector": "#waifu-tool-switch-model",
+		"text": ["Artık beni sevmiyorsun, değil mi?", "Kız kardeşimi mi görmek istiyorsun?" , "Kız kardeşimi görmek ister misin?" , "Değişmek ister misin?"]
+	}, {
+		"selector": "#waifu-tool-switch-texture",
+		"text": ["Giyinmeyi sever misin?" , "Bu sefer ne oynayacaksın?" , "Crossdressing!" , "Bakalım bundan sonra ne olacak!"]
+	}, {
+		"selector": "#waifu-tool-photo",
+		"text": ["Benim resmimi mi çekeceksin? Bir, iki, üç ~ Peynir ~", "Neden birlikte fotoğraf çektirmiyoruz!" , "Sadece gülümsemeye devam et~"]
+	}, {
+		"selector": "#waifu-tool-info",
+		"text": ["Benim hakkımda daha fazla bilgi edinmek ister misin?" , "Burası benim hareket tarihimin kaydedildiği yer." , "Benim hakkımda daha fazla ne bilmek istiyorsun?"]
+	}, {
+		"selector": "#waifu-tool-quit",
+		"text": ["Veda etme zamanı geldi mi?", "Hüngür hüngür QAQ Tekrar görüşeceğiz...", "Beni terk etme...", "Biz, tekrar görüşebilir miyiz...", "Hmph, pişman olacaksın!"]
+	}, {
+		"selector": ".menu-item-home a",
+		"text": ["Ana sayfaya gitmek için tıklayın, önceki sayfaya dönmek isterseniz tarayıcının geri butonunu kullanabilirsiniz.", "Ana sayfaya dönmek için buna tıklayın!", "Ana sayfaya göz atın."]
+	}, {
+		"selector": ".menu-item-about a",
+		"text": ["Ev sahibimin kim olduğunu öğrenmek ister misin?", "Burada ev sahibim hakkında bazı sırlar var, göz atmak ister misin?", "Ev sahibinin bulunduğu yeri keşfet!"]
+	}, {
+		"selector": ".menu-item-tags a",
+		"text": ["Etiketleri görmek için tıklayın!", "Tüm etiketleri görmek için tıklayın."]
+	}, {
+		"selector": ".menu-item-categories a",
+		"text": ["Makaleler kategorilere ayrıldı~", "Makalelerin kategorilerini görmek için tıklayın."]
+	}, {
+		"selector": ".menu-item-archives a",
+		"text": ["Sayfaları çevirmek zor mu geliyor, o zaman makale arşivine göz at.", "Makalelerin dizini burada düzenlendi!"]
+	}, {
+		"selector": ".menu-item-friends a",
+		"text": ["Bunlar benim arkadaşlarım ヾ(◍°∇°◍)ﾉﾞ", "Ustaların evine bakmak ister misin?", "Arkadaşlarımı ziyaret etmek ister misin?"]
+	}, {
+		"selector": ".menu-item-search a",
+		"text": ["Aradığın içeriği bulamadın mı? Araştırmayı dene!", "Ne arıyorsun, yardıma ihtiyacın var mı?"]
+	}, {
+		"selector": ".menu-item a",
+		"text": ["Burada neler var bir göz at!"]
+	}, {
+		"selector": ".site-author",
+		"text": ["Ev sahibim güzel mi?", "Bu benim ev sahibim (*´∇｀*)"]
+	}, {
+		"selector": ".site-state",
+		"text": ["Bu makalenin istatistik bilgileri~", "Bakmak ister misin?"]
+	}, {
+		"selector": ".feed-link a",
+		"text": ["Burada RSS aboneliği yapabilirsiniz!", "Feed okuyucusu kullanarak blog güncellemelerini hızlıca takip edebilirsiniz."]
+	}, {
+		"selector": ".cc-opacity, .post-copyright-author",
+		"text": ["Yeniden yayınlamayı düzenlemeyi unutmayın.", "Tüm makaleler CC BY-NC-SA 4.0 lisansı altında yayınlanmaktadır.", "Yeniden yayınlamadan önce makalelerin telif hakkı sözleşmesine dikkat edin."]
+	}, {
+		"selector": ".links-of-author",
+		"text": ["İşte ustanın daimi adresi oh." , "İşte ustanın iletişim bilgileri!"]
+	}, {
+		"selector": ".followme",
+		"text": ["Telefonla tarayarak devam edebilirsiniz, çok pratik~", "Tarama yapın, yeni bir dünyanın kapısını açın!"]
+	}, {
+		"selector": ".fancybox img, img.medium-zoom-image",
+		"text": ["Resmi büyütmek için üzerine tıklayın!"]
+	}, {
+		"selector": ".copy-btn",
+		"text": ["Kod, üzerine tıklanarak doğrudan kopyalanabilir, yo."]
+	}, {
+		"selector": ".highlight .table-container, .gist",
+		"text": ["GitHub! Bu işte yeniyim!" , "PHP en iyi dil!"]
+	}, {
+		"selector": "a[href^='mailto']",
+		"text": ["E-postaya zamanında yanıt vereceğim!" , "E-postayı göndermek için üzerine tıklayın~"]
+	}, {
+		"selector": "a[href^='/tags/']",
+		"text": ["<span>{text}</span> etiketine göz atacak mısın?" , "Bu etiket altındaki tüm gönderileri görmek için ona dokunun!"]
+	}, {
+		"selector": "a[href^='/categories/']",
+		"text": ["<span>{metin}</span> kategorisine göz atmak ister misin?" , "Bu kategori altındaki tüm gönderileri görmek için dokunun, yo!"]
+	}, {
+		"selector": ".post-title-link",
+		"text": ["<span>{text}</span> makalesini görmek ister misin?"]
+	}, {
+		"selector": "a[rel='contents']",
+		"text": ["Makalenin tamamını okumak için tıklayın."]
+	}, {
+		"selector": "a[itemprop='discussionUrl']",
+		"text": ["Yorumlara göz atmak ister misin?"]
+	}, {
+		"selector": ".beian a",
+		"text": ["Ben de kayıtlı bir kişiyim.", "Benim ev sahibim yasaları saygıyla uygular."]
+	}, {
+		"selector": ".container a[href^='http'], .nav-link .nav-text",
+		"text": ["要去看看 <span>{text}</span> 么？", "去 <span>{text}</span> 逛逛吧。", "到 <span>{text}</span> 看看吧。"]
+	}, {
+		"selector": ".back-to-top",
+		"text": ["En başa dönmek için dokunun!" , "Başa döndük.", "Başa dönmek istiyor musun?"]
+	}, {
+		"selector": ".reward-container",
+		"text": ["Harika değil miyim ~ bana bir beğeni verin!" , "Beni ödüllendirmek ister misin? Dört gözle bekliyorum~", "Efendim son zamanlarda pislik yiyor... zor oldu... ona biraz para ver..."]
+	}, {
+		"selector": "#wechat",
+		"text": ["Bu benim WeChat QR kodum~"]
+	}, {
+		"selector": "#alipay",
+		"text": ["Bu benim paypal'ım!"]
+	}, {
+		"selector": "#bitcoin",
+		"text": ["Bu benim bitcoin hesabım!"]
+	}, {
+		"selector": "#needsharebutton-postbottom .btn",
+		"text": ["İyi şeylerin daha fazla insan tarafından bilinmesi gerekir oh." , "Makaleyi faydalı bulursanız, ihtiyacı olan daha fazla arkadaşınızla paylaşabilirsiniz."]
+	}, {
+		"selector": ".need-share-button_weibo",
+		"text": ["Twitter? Gel bir miyav dalgası paylaş!"]
+	}, {
+		"selector": ".need-share-button_wechat",
+		"text": ["WeChat'te paylaş!"]
+	}, {
+		"selector": ".need-share-button_douban",
+		"text": ["Douban'da paylaşmak da iyi görünüyor!"]
+	}, {
+		"selector": ".need-share-button_qqzone",
+		"text": ["QQ alanı, tek tıkla yönlendirme, evet"]
+	}, {
+		"selector": ".need-share-button_twitter",
+		"text": ["Twitter? Sanırım böyle bir şey yok?"]
+	}, {
+		"selector": ".need-share-button_facebook",
+		"text": ["emm...FB de yok gibi görünüyor?"]
+	}, {
+		"selector": ".post-nav-item a[rel='next']",
+		"text": ["Bir sonraki gönderiyi görmeye gel." , "Sonraki gönderiyi görmek için dokunun!" , "Bir sonraki gönderiye geçmek ister misin?"]
+	}, {
+		"selector": ".post-nav-item a[rel='prev']",
+		"text": ["Gel önceki gönderiye bak." , "Önceki gönderiyi görmek için dokun!" , "Önceki gönderiye geçmek ister misin?"]
+	}, {
+		"selector": ".extend.next",
+		"text": ["Sonraki sayfaya gitn ve kontrol et." , "İlerlemek için dokun!" , "Sonraki sayfaya gitmek ister misin?"]
+	}, {
+		"selector": ".extend.prev",
+		"text": ["Önceki sayfaya git ve kontrol et." , "Geri dönmek için dokun!" , "Önceki sayfaya gitmek ister misin?"]
+	}, {
+		"selector": "input.vnick",
+		"text": ["Sana ne diyeyim?" , "Onurlu adını bırak!"]
+	}, {
+		"selector": ".vmail",
+		"text": ["E-postanızı bırakın yoksa avatarınız olmayacak!" , "Bir Avatar oluşturmayı unutmayın!" , "En son haberlerden haberdar olmak için e-postanızı bıraktığınızdan emin olun!"]
+	}, {
+		"selector": ".vlink",
+		"text": ["Çabuk bana evinin nerede olduğunu söyle ki ziyaret edebileyim!"]
+	}, {
+		"selector": ".veditor",
+		"text": ["Bir şey hakkında yorum yapmak ister misin?" , "Bir şey söylemek ister misin?" , "Blogun iyi olduğunu mu düşünüyorsun? Gel bir yorum bırak ve sahibiyle konuş!"]
+	}, {
+		"selector": ".vcontrol a",
+		"text": ["Markdown kullanmayı biliyor musunuz?" , "Yorumlarınızı daha güzel hale getirmek için Markdown kullanın." , "Yorumlarınızın güzel görünmesi için Markdown kullanın."]
+	}, {
+		"selector": ".vemoji-btn",
+		"text": ["Sevimli bir emoji eklemek ister misin?" , "Bir emoji eklemek ister misin?"]
+	}, {
+		"selector": ".vpreview-btn",
+		"text": ["Yorumlarınızı önizlemek ister misin?", "Yorumlarının entropi seviyesine bir göz at!"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["Yorumlar denetlenmemiştir, kendi sözlerinizden sorumlu olun lütfen~", "Göndermeye hazır mısın? Yanıtı beklerken lütfen sabırlı ol~"]
+	}, {
+		"selector": ".vcontent",
+		"text": ["Vay, bu harika yoruma bir göz at!", "Eğer soruların varsa, lütfen hemen yorum yap~"]
+	}],
+	"click": [{
+		"selector": "#live2d",
+		"text": ["Bu... kazara bir çarpma, sanırım...", "Lolita nedir?" , "Ayımı gördün mü?" , "Bir daha dokunursan polisi arayacağım! ⌇⌇⌇", "110 Anne, bana dokunan bir sapık var (ó﹏ò.)", "Bana dokunma, kocama seni dövmesini söylerim!", "Neden beni hareket ettiriyorsun!" , "Neden bana dokunuyorsun? Seni ısırırım!" , "Dokunma bana, dokunacak ne var!"]
+	}, {
+		"selector": ".veditor",
+		"text": ["Bir şikayetiniz mi var?", "Kesinlikle dikkatlice doldurun miaow~", "Söylemek istediğiniz bir şey var mı?"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["Yorumunuzu göndermek için kodu girin."]
+	}],
+	"seasons": [{
+		"date": "01/01",
+		"text": "<span>Yeni Yıl Günü</span>Bugün Yeni Yıl Günü，今年是{year}年～"
+	}, {
+		"date": "02/14",
+		"text": "又是一年<span>情人节</span>，{year}yeni bir yıl başladı～"
+	}, {
+		"date": "03/08",
+		"text": "Bugün<span>Dünya Kadınlar Günü</span>！"
+	}, {
+		"date": "03/12",
+		"text": "Bugün<span>Çevre Günü</span>，çevreyi korumalıyız！"
+	}, {
+		"date": "04/01",
+		"text": "Sana bir sır vereyim～<span>Bugün 1 Nisan Şaka Günü，Sakın kanma.～</span>"
+	}, {
+		"date": "05/01",
+		"text": "Bugün.<span>1 Mayıs</span>，Tatilde nereye gideceğini planladın mı?～"
+	}, {
+		"date": "06/01",
+		"text": "<span>Çocuk Günü</span>了呢，Mutlu zamanlar hep kısadır.，Keşke hiç büyümesem…"
+	}, {
+		"date": "09/03",
+		"text": "<span>(ÇHC)Zafer Günü</span>，Tarih bilinciyle、şehitleri hatırlayın、Barışı Korumak, Geleceği Yaratmak."
+	}, {
+		"date": "09/10",
+		"text": "<span>Öğretmenler Günü</span>，Okulda öğretmenine merhaba de～"
+	}, {
+		"date": "10/01",
+		"text": "<span>ÇHC Ulusal Günü</span>到了，Anavatan'ın Doğum Günü Kutlanıyor！"
+	}, {
+		"date": "11/05-11/12",
+		"text": "Bu yıl<span>çi̇ft on bi̇r</span>Kiminle berabersin～"
+	}, {
+		"date": "12/20-12/31",
+		"text": "Bu gün<span>Noel Günü</span>，Efendim yine alışverişe gitmiş olmalı～"
+	}],
+	"time": [{
+		"hour": "6-7",
+		"text": "Günaydın! Güzel bir gün başlamak üzere~"
+	}, {
+		"hour": "8-11",
+		"text": "Günaydın! İşler iyi gidiyor, hareketsiz kalma, kalk ve daha sık dolaş!"
+	}, {
+		"hour": "12-13",
+		"text": "Öğlen oldu, bütün sabah çalıştıktan sonra öğle yemeği vakti!"
+	}, {
+		"hour": "14-17",
+		"text": "Öğleden sonra uykulu olmak normal, bugünün egzersiz hedefini tamamladın mı?"
+	}, {
+		"hour": "18-19",
+		"text": "Akşam oldu! Pencerenin dışındaki gün batımı manzarası çok güzel... en güzel şey kırmızı gün batımı~"
+	}, {
+		"hour": "20-21",
+		"text": "İyi akşamlar, günün nasıldı?"
+	}, {
+		"hour": "22-23",
+		"text": ["Zaten geç oldu, biraz dinlen. İyi geceler.", "Gece geç saatlerde gözlerine dikkat et."]
+	}, {
+		"hour": "0-5",
+		"text": "Gece kuşu musun sen? Bu saatte hala ayaktasın, yarın nasıl kalkacaksın?"
+	}],
+	"message": {
+		"default": ["Çok uzun zaman oldu, zaman gerçekten hızlı geçiyor...", "Kötü adam! Ne zamandır bana cevap vermiyorsun, hııı~", "Hey~ Gel ve benimle oyna!", "Küçük yumruklarla seni göğsünden vuracağım!", "Beni favorilere eklemeyi unutma!"],
+		"console": "Haha, küçük sırrımı görmek için konsolu mu açtın?",
+		"copy": "Ne kopyaladın ki, paylaştığın şeyin kaynağını eklemeyi unutma!",
+		"visibilitychange": "Vay be, sonunda döndün~"
+	}
+}
